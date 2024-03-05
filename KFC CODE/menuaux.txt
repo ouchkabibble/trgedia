@@ -1,0 +1,12 @@
+12P29     12-PRESAS                     18.99
+7P31      7-PRESAS                      12.99
+CC04      CHICKEN-CRUNCH                 4.99
+CAP57     COMBO-COMPLETO                 6.50
+CKS66     COMBO-POPCORN-MEDIANO          5.75
+CTD75     ENSALADA-KFC                   5.50  
+FF319     FESTIN-PICA-PICA              24.99
+KC71      KENTUCKY-CORONEL-40-OFD        4.25
+KSO10     MARTES-LOCO                    3.45
+MFP26     MEGA-KENTUCKY-CRISPY-BBQ-H    18.99
+PCF84     POP-CORN-MEDIANO               5.99
+SCE52     TWISTER                        3.75   
